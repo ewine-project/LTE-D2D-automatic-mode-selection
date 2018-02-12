@@ -1,6 +1,6 @@
 # LTE-D2D-automatic-mode-selection
 TCD's contribution for LTE D2D automatic mode selection algorithms between infrastructure mode and D2D mode.
-# Developed by Yi Zhang and Shekhaer Jain from Trinity College Dublin
+# Developed by Trinity College Dublin
 
 Two algorithms on switching between downlink and sidelink based on SNR
 Downlink and sidelink are PDSCH and PSSCH PHY layer transmission based on SDR software srsLTE.
