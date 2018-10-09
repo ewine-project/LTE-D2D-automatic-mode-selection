@@ -1,4 +1,4 @@
-# These codes are under the AGPLv3 licence.
+# The codes included in this folder are under the AGPLv3 licence.
 
 # LTE-D2D-automatic-mode-selection
 
