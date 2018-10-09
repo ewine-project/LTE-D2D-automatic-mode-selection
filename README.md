@@ -24,6 +24,8 @@ see two separate files:
 
 sl.sh and dl.sh
 
+Please run all the bash files on the remote_UE PC.
+
 # The folder of srsLTE_D2D_PHY includes a partial (ongoing) implementation of PHY PSSCH channel based on srsLTE
 
 eNodeB.zip, Relay_UE.zip, Remote_UE.zip have to be unzipped, installed in 3 different PCs.
