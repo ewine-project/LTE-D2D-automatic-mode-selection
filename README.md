@@ -28,4 +28,6 @@ sl.sh and dl.sh
 
 eNodeB.zip, Relay_UE.zip, Remote_UE.zip have to be unzipped, installed in 3 different PCs.
 
+Run "internal_gui" files alongside with srsLTE examples files (the commands for running srsLTE are included in texts files in subfolders) to launch GUI to change LTE parametres on the fly.
+
 More information please contact yi.zhang@tcd.ie
