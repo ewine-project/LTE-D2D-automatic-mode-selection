@@ -1,6 +1,6 @@
 # The codes included in this repository are under the AGPLv3 licence.
 
-# LTE-D2D-automatic-mode-selection
+# LTE D2D automatic mode selection
 
 TCD's contribution for LTE D2D automatic mode selection algorithms between infrastructure mode and D2D mode.
 
