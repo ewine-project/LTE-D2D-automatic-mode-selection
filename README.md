@@ -1,10 +1,8 @@
 # The codes included in this repository are under the AGPLv3 licence.
 
-# LTE D2D automatic mode selection
+# LTE D2D automatic mode selection (Developed by Trinity College Dublin (TCD))
 
 TCD's contribution for LTE D2D automatic mode selection algorithms between infrastructure mode and D2D mode.
-
-# Developed by Trinity College Dublin 
 
 Two algorithms on switching between downlink and sidelink based on SNR.
 
