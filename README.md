@@ -24,7 +24,7 @@ see two separate files:
 
 sl.sh and dl.sh
 
-# The folder of srsLTE_D2D_PHY contains a partial (ongoing) implementation of PHY PSSCH channel based on srsLTE
+# The folder of srsLTE_D2D_PHY includes a partial (ongoing) implementation of PHY PSSCH channel based on srsLTE
 
 eNodeB.zip, Relay_UE.zip, Remote_UE.zip have to be unzipped, installed in 3 different PCs.
 
